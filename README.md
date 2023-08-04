@@ -3,7 +3,7 @@
 
 - 🔥 Fancy telegram username holder [**@javascript**](https://t.me/javascript)
 - 💛 [**JavaScript Armenia**](https://www.facebook.com/javascriptarmenia) Community Initiator
-- ✍️ [Writing](https://nairihar.medium.com/) about JavaScript/Node.js and related technologies
+- ✍️  [Writer](https://nairihar.medium.com/) about JavaScript/Node.js and related technologies
 - 🎙 ️[Podcaster](https://www.youtube.com/nairihar) for Armenian tech community
 - 🎤 [Speaker](https://youtu.be/VGdP3zKHleE), Conference/Meetup organizer
 
