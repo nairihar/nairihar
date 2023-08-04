@@ -6,7 +6,7 @@
 - ✍️ [Writing](https://nairihar.medium.com/) about JavaScript/Node.js and related technologies
 - 🎙 ️[Podcaster](https://www.youtube.com/nairihar) for Armenian tech community
 - 🥷 JavaScript Ninja
-- Speaker, Conference/Meetup organizer
+- 🎤 [Speaker](https://youtu.be/VGdP3zKHleE), Conference/Meetup organizer
 
 *I'm always open to hearing about new and exciting ideas and opportunities, so please don't hesitate to reach out to me.*
 
