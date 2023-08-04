@@ -1,4 +1,4 @@
-## Hey I'm Nairi 🥷
+## Hey I'm Nairi \*_*
 ---
 
 - 🔥 Fancy telegram username holder [**@javascript**](https://t.me/javascript)
