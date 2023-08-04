@@ -1,11 +1,10 @@
-## Hey I'm Nairi \*_*
+## Hey I'm Nairi 🥷
 ---
 
 - 🔥 Fancy telegram username holder [**@javascript**](https://t.me/javascript)
 - 💛 [**JavaScript Armenia**](https://www.facebook.com/javascriptarmenia) Community Initiator
 - ✍️ [Writing](https://nairihar.medium.com/) about JavaScript/Node.js and related technologies
 - 🎙 ️[Podcaster](https://www.youtube.com/nairihar) for Armenian tech community
-- 🥷 JavaScript Ninja
 - 🎤 [Speaker](https://youtu.be/VGdP3zKHleE), Conference/Meetup organizer
 
 *I'm always open to hearing about new and exciting ideas and opportunities, so please don't hesitate to reach out to me.*
