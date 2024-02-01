@@ -1,8 +1,10 @@
-## Hey I'm Nairi \*_*
+## Hey I'm Nairi - [Tech writer](https://nairihar.medium.com/), [Podcaster](https://www.youtube.com/@javascriptarmenia), [Conf organizer](https://jssummit.am/)
+*[nairi.dev](https://nairi.dev/)*
+
 ---
 
-- 🥷  Backend Engineer
-- 🔥  Fancy telegram username holder [**@javascript**](https://t.me/javascript)
+- 🥷  Backend/DevOps Engineer
+- 🔥  Check out my [**@javascript**](https://t.me/javascript) newsletter on Telegram
 - 💛  Creator of the [JavaScript Armenia](https://www.facebook.com/javascriptarmenia) Community
 - ✍️  [Writing](https://nairihar.medium.com/) about JavaScript and related technologies
 - 🎙️  [Hosting podcasts](https://www.youtube.com/nairihar) for the Armenian tech community
